@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Campi Flegrei",
+        "latitude": "40.826999999999900",
+        "longitude": "14.138999999999900",
+        "risk": "3",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    },
+    {
+        "name": "Vesuvius",
+        "latitude": "40.820999999999900",
+        "longitude": "14.426000000000000",
+        "risk": "3",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    },
+    {
+        "name": "Stromboli",
+        "latitude": "38.789000000000000",
+        "longitude": "15.212999999999900",
+        "risk": "1",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    },
+    {
+        "name": "Vulcano",
+        "latitude": "38.404000000000000",
+        "longitude": "14.962000000000000",
+        "risk": "3",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    },
+    {
+        "name": "Etna",
+        "latitude": "37.734000000000000",
+        "longitude": "15.004000000000000",
+        "risk": "2",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    },
+    {
+        "name": "Campi Flegrei Mar Sicilia",
+        "latitude": "37.100000000000000",
+        "longitude": "12.699999999999900",
+        "risk": "2",
+        "country": "Italy",
+        "region": "Mediterranean and W Asia"
+    }
+]
